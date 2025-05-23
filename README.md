@@ -1,2 +1,3 @@
 # delta-demo
-this is a demo for git and github class. hello
+HEY I'M JUST TRYING TO LEARN GIT AND GIT HUB . 
+(BASIC LEARING TUTORIAL REPOSITORY)
